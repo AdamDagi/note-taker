@@ -17,7 +17,7 @@
 * Also added function to delite notes as bonus required.
 
 * GitHub Repo Link: https://github.com/AdamDagi/note-taker
-* GitHub Pages Link: https://adamdagi.github.io/note-taker/
+* Heroku URL Link: https://still-hollows-96737.herokuapp.com
 
 Main Page Screen Shot: <img width="1247" alt="Screen Shot 2021-12-10 at 4 51 23 PM" src="https://user-images.githubusercontent.com/90221273/145646039-7ed14ed2-74c1-4f8b-8463-7f2ec80f5e76.png">
 
